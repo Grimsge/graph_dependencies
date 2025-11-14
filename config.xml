@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<configuration>
+    <package_name>numpy</package_name>
+    <repository_url>https://pypi.org/simple/</repository_url>
+    <test_repo_mode>false</test_repo_mode>
+    <package_version>1.24.0</package_version>
+    <output_filename>my_graph.png</output_filename>
+</configuration>
